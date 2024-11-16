@@ -1,0 +1,98 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore on: https://help.github.com/articles/ignoring-files
+# Useful .gitignore templates: https://github.com/github/gitignore
+
+# Java specific
+# =========================
+*.bak
+*.class
+
+# Web Specific
+# =========================
+node_modules
+dist
+.cache
+
+# Gradle Specific
+# =========================
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+
+# Temp build
+# =========================
+[Bb]uild*/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+*.log
+
+# IntelliJ IDEA
+# =========================
+.idea
+*.iml
+*.ipr
+*.iws
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Eclipse
+# =========================
+.apt_generated
+.classpath
+.factorypath
+.metadata/*
+.project
+.settings
+.springBeans
+.sts4-cache
+libs/*
+
+# NetBeans
+# =========================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+# =========================
+/.vs
+.vscode/
+
+# Mac OS
+# =========================
+.apdisk
+.AppleDouble
+.AppleDB
+.AppleDesktop
+.LSOverride
+Network Trash Folder
+Temporary Items
+
+# Windows
+# =========================
+$RECYCLE.BIN/
+ehthumbs.db
+[Tt]humbs.db
+.DS_Store
+*.cab
+*.ini
+*.lnk
+*.msi
+*.msm
+*.msp
+
+# Thumbnails
+# =========================
+._*
+
+# Files that might appear in the root of a volume
+# =========================
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
