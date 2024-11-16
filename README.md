@@ -20,7 +20,9 @@
 
 <p align="center">
 	<br> <br>
-	<a href="https://app.codacy.com/gh/wasulabenjamin/wasulabenjamin.github.io/dashboard"></a>
+	<a href="https://app.codacy.com/gh/wasulabenjamin/wasulabenjamin.github.io/dashboard">
+		<img src="https://app.codacy.com/project/badge/Grade/ece8152c744b4a7096abbdc9a95370a9"/>
+	</a>
     &nbsp;
 	<a href="https://github.com/wasulabenjamin/wasulabenjamin.github.io/graphs/contributors">
     	<img src="https://img.shields.io/github/contributors/wasulabenjamin/wasulabenjamin.github.io" 
