@@ -1,13 +1,13 @@
 (function ($) {
 	'use strict';
 
-	const nav_offset_top = $('header').height() + 50;
+	const nav_offset_top= $('header').height() + 50;
 
-	<!--================ Navbar Fixed =================-->
+	// <!--================ Navbar Fixed =================-->
 	function navbarFixed() {
 		if ($('.header_area').length) {
 			$(window).scroll(function () {
-				const scroll = $(window).scrollTop();
+				const scroll= $(window).scrollTop();
 				if (scroll >= nav_offset_top) {
 					$('.header_area').addClass('navbar_fixed');
 				} else {
@@ -18,7 +18,7 @@
 	}
 	navbarFixed();
 
-	<!--================ Portfolio =================-->
+	// <!--================ Portfolio =================-->
 	$(window).on('load', function () {
 		$('.portfolio-filter ul li').on('click', function () {
 			$('.portfolio-filter ul li').removeClass('active');
