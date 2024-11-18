@@ -1,12 +1,12 @@
-<p style="text-align: center;">
+<p align="center">
 	<a href="https://wasulabenjamin.github.io">
 		<img src=".github/img/wasulabenjamin.png" alt="logo">
 	</a>
 </p>
 
-<h3 style="text-align: center;">Wasula Benjamin</h3>
+<h3 align="center">Wasula Benjamin</h3>
 
-<p style="text-align: center;">
+<p align="center">
    	Welcome to my Personal Portfolio Web Template!
     <br> <br>
     <a href="https://wasulabenjamin.github.io">View Demo</a> .
@@ -18,14 +18,14 @@
     </a>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
 	<br> <br>
 	<a href="https://app.codacy.com/gh/wasulabenjamin/wasulabenjamin.github.io/dashboard">
 		<img src="https://app.codacy.com/project/badge/Grade/ece8152c744b4a7096abbdc9a95370a9" alt="Codacy Badge"/>
 	</a>
     &nbsp;
 	<a href="https://github.com/wasulabenjamin/wasulabenjamin.github.io/graphs/contributors">
-    	<img src="https://img.shields.io/github/contributors/wasulabenjamin/wasulabenjamin.github.io" 
+    	<img src="https://img.shields.io/github/contributors/wasulabenjamin/wasulabenjamin.github.io"
     	alt="Contributors"/>
 	</a>
     &nbsp;
